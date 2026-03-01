@@ -79,7 +79,9 @@
 
 [**下载**](https://github.com/lejianwen/rustdesk-server/releases)
 
-[**说明文件**](https://rustdesk.com/docs/zh-cn/self-host/)
+[**FAQ**](https://github.com/rustdesk/rustdesk/wiki/FAQ)
+
+[**How to migrate OSS to Pro**](https://rustdesk.com/docs/en/self-host/rustdesk-server-pro/installscript/#convert-from-open-source)
 
 自行搭建属于你的RustDesk服务器,所有的一切都是免费且开源的
 
